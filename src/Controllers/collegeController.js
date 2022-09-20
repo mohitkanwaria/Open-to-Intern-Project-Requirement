@@ -84,7 +84,7 @@ const getcollegeDetails = async function (req, res) {
 
         const allinterns = {
             "name": collegeDetail.name,
-            "fullname": collegeDetail.fullName,
+            "fullName": collegeDetail.fullName,
             "logoLink": collegeDetail.logoLink,
             "isDeleted": collegeDetail.isDeleted,
             "intern": findIntern
