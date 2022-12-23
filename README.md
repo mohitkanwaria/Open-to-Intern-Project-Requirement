@@ -1,4 +1,4 @@
-# Intern-Project-2
+# Intern-Project
 
 ## Open to Intern Project Requirement
 
